@@ -1,0 +1,25 @@
+.display-digit{
+    display: flex;
+    justify-content: center;
+    top: 100px;
+    margin-bottom: 20px;
+}
+.digit{
+    background: rgb(10, 156, 214);
+    color: white;
+    font-size: 25px;
+    font-weight: 50px;
+    margin-right: 5px;
+    border: 1px solid yellow;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 25%;
+}
+.colon{
+    font-size: 30px;
+    margin-right: 5px;
+    margin-top: 5px;
+    color: red;
+}
